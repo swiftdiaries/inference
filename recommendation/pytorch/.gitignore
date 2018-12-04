@@ -1,5 +1,5 @@
 __pycache__
-.ipynb_checkpoints
-.vscode
+.ipynb_checkpoints/
+.vscode/
 training/ml-20m/
 trained_models
